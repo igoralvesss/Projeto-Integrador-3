@@ -1,0 +1,23 @@
+#perfilMaster{
+    width: 10%;
+}
+#inputMaster{
+width: 400px;
+}
+@media(max-width:500px){
+    #inputMaster{
+        width: 250px;
+        }
+        #tablepedidos{
+            padding: 0px 50px;
+        }   
+        #userMaster{
+            display: none;
+        }
+}
+@media(max-width:1000px){
+    #titlemaster{
+        display: none;
+        }
+    
+}

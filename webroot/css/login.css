@@ -1,0 +1,27 @@
+#batata{
+  width: 15%;
+}
+#caixa_login{
+    height: 250px;
+    width: 450px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+#input_login{
+    width: 250px;
+    margin: 0 auto;
+}
+@media (max-width:500px){
+    #caixa_login{
+        width: 350px;
+    }
+}
+@media (max-width:370px){
+    #caixa_login{
+        width: 250px;
+    }
+    #input_login{
+        width: 200px;
+        margin: 0 auto;
+    }
+}

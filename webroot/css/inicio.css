@@ -1,0 +1,24 @@
+#carouselExampleControls img{
+    height: 400px;
+}
+#imgcardapio{
+    height: 300px;
+    width: 700px;
+}
+
+.fundo{
+    height: 700px;
+    background-image: url("../img/fundologin3.jpg") ;
+    
+}
+
+.fund{
+    height: 700px;
+    background-image: url("../img/imgcardapio.png") ;
+    
+}
+
+/* .plano{
+    height: 700px;
+    background-image: url("../img/fundologin3.jpg") ;
+} */
